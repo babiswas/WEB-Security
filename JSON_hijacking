@@ -9,6 +9,7 @@ d)Unauthorized data access.
 e)Data breach
 f)Account takeover
 g)API misuse
+h)Extract personally identifiable information(PII)
 
 Steps:
 1.The attacker gets an authenticated user to visit a malicious page to read their data.
