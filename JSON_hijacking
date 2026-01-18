@@ -14,5 +14,7 @@ Steps:
 
 <script src="http://<jsonsite>/abc.php"></script>
 
-
+Steps to prevent
+=================
 Access-Control-Allow-Origin header should be used for a service to prevent json hijacking.
+These vulnerabilities exploit the same-origin policy's (SOP) exceptions for certain types of resource loading, primarily the <script> tag
