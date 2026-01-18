@@ -1,0 +1,16 @@
+Host Header Injection
+=====================
+https://www.aptive.co.uk/blog/what-is-host-header-injection/
+
+Multiple domains is hosted on single IP adress.
+
+1.Password reset poisoning
+2.Web cache poisoining
+
+client ----------------- server
+
+1.DNS resoulution
+2.TCP connection
+3.Host header 
+
+Multiple domain on single IP is called (Virtual Hosting.)
