@@ -1,0 +1,18 @@
+Same Origin: 
+=============
+     https://www.example.com/page1 
+and  https://www.example.com/page2 are the same origin (only path differs).
+
+
+Different Origin:
+==================
+http://example.com 
+https://example.com (different protocol).
+
+
+example.com vs. 
+sub.example.com (different domain/subdomain).
+
+
+example.com:80 
+example.com:8080 (different port). 
