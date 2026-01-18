@@ -6,6 +6,9 @@ a)Personal data
 b)Session Hijacking(stealing authentication token.)
 c)API exploitation
 d)Unauthorized data access.
+e)Data breach
+f)Account takeover
+g)API misuse
 
 Steps:
 1.The attacker gets an authenticated user to visit a malicious page to read their data.
